@@ -2,8 +2,6 @@
 
 [Link to the game](http://my-matching-game.s3-website-ap-southeast-1.amazonaws.com/)
 
-http://my-matching-game.s3-website-ap-southeast-1.amazonaws.com/
-
 
 The code for a game is hosted on GitHub. Utilize an S3 bucket for static website hosting, then set up a continuous deployment pipeline (using AWS CodePipeline) to automatically deploy the code whenever changes are made.
 
